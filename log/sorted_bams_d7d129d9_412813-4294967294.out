@@ -1,0 +1,10 @@
+### [bt]: This is batchtools v0.9.15
+### [bt]: Starting calculation of 1 jobs
+### [bt]: Setting working directory to '/athena/marchionnilab/scratch/clz4002/ppcg_wgs/dragenmode'
+Loading required package: targets
+### [bt]: Memory measurement disabled
+### [bt]: Starting job [batchtools job.id=1]
+### [bt]: Setting seed to 22067 ...
+Collating fixmate and sorting...
+[bam_sort_core] merging from 550 files and 50 in-memory blocks...
+/var/spool/slurmd/job412813/slurm_script: line 13:   378 Bus error               Rscript -e 'batchtools::doJobCollection("/athena/marchionnilab/scratch/clz4002/ppcg_wgs/dragenmode/.future/20220413_115750-gniLEv/sorted_bams_d7d129d9_199108080/jobs/job3168463e015056b18dc7132030c90027.rds")'

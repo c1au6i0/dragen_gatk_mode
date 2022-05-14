@@ -1,0 +1,196 @@
+Fri Apr 15 08:29:40 EST 2022
+
+R version 4.1.2 (2021-11-01) -- "Bird Hippie"
+Copyright (C) 2021 The R Foundation for Statistical Computing
+Platform: x86_64-conda-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+* Project '/athena/marchionnilab/scratch/clz4002/ppcg_wgs/dragenmode' loaded. [renv 0.15.4]
+> targets::tar_make_future(workers = 2)
+here() starts at /athena/marchionnilab/scratch/clz4002/ppcg_wgs/dragenmode
+✔ skip target reference_folder
+✔ skip target ubam_folder
+• start target ubams_files
+✔ skip target reference_files
+• built target ubams_files
+✔ skip branch ubams_78a338f2
+✔ skip branch ubams_4244fdb5
+✔ skip branch ubams_2cd068e0
+✔ skip branch ubams_2257c04c
+✔ skip branch ubams_a60e5c03
+✔ skip branch ubams_9085d072
+✔ skip branch ubams_9b4d8b84
+✔ skip branch ubams_ebb88c5f
+✔ skip branch ubams_0cd9fa4c
+✔ skip branch ubams_80a10155
+✔ skip branch ubams_84ad4357
+✔ skip branch ubams_65e4488b
+✔ skip branch ubams_cc9c6986
+✔ skip branch ubams_77b5806a
+✔ skip branch ubams_70562715
+✔ skip branch ubams_4f0d1d6c
+✔ skip branch ubams_94b13910
+✔ skip branch ubams_484fb24a
+✔ skip branch ubams_bc8c0aeb
+✔ skip branch ubams_c26d70f6
+✔ skip branch ubams_14f05eeb
+✔ skip branch ubams_e5c0e796
+✔ skip branch ubams_5a23a4d7
+✔ skip branch ubams_85c75bf9
+✔ skip branch ubams_2cd67696
+✔ skip branch ubams_926a74fb
+✔ skip branch ubams_aeb67b1b
+✔ skip branch ubams_0bfabf30
+✔ skip branch ubams_2954b45d
+✔ skip branch ubams_2f375141
+✔ skip branch ubams_0395aac3
+✔ skip branch ubams_28a38817
+✔ skip branch ubams_10c87412
+✔ skip branch ubams_0b0c2940
+✔ skip branch ubams_98b91d61
+✔ skip branch ubams_b37523d6
+✔ skip branch ubams_c9766b54
+✔ skip branch ubams_c1b0219f
+✔ skip branch ubams_b12da4bb
+✔ skip branch ubams_3ea83243
+✔ skip pattern ubams
+✔ skip branch bams_bcf64ce5
+✔ skip branch bams_7e613be2
+✔ skip branch bams_2cb8c6c8
+✔ skip branch bams_f6dea99c
+✔ skip branch bams_2a6ec0f7
+✔ skip branch bams_b48b3d3a
+✔ skip branch bams_3cb7706b
+✔ skip branch bams_04043065
+✔ skip branch bams_240b8a0d
+✔ skip branch bams_bd3a0076
+✔ skip branch bams_c592569a
+✔ skip branch bams_257d3c47
+✔ skip branch bams_3d368718
+✔ skip branch bams_978fe589
+✔ skip branch bams_ab725089
+✔ skip branch bams_1f9387c4
+✔ skip branch bams_90c30fc7
+✔ skip branch bams_5a1a41fd
+✔ skip branch bams_05200115
+✔ skip branch bams_256777c0
+✔ skip branch bams_1bce4739
+✔ skip branch bams_6509149e
+✔ skip branch bams_84d67404
+✔ skip branch bams_440ea807
+✔ skip branch bams_67c92cdc
+✔ skip branch bams_20bc0e90
+✔ skip branch bams_6fd7cf4a
+✔ skip branch bams_18ef5146
+✔ skip branch bams_fa7b2a7e
+✔ skip branch bams_eb30ad37
+✔ skip branch bams_e9e7147b
+✔ skip branch bams_243d1863
+✔ skip branch bams_72d06d82
+✔ skip branch bams_c3f75240
+✔ skip branch bams_70339ce8
+✔ skip branch bams_a24477cc
+✔ skip branch bams_ff6814d1
+✔ skip branch bams_4e848836
+✔ skip branch bams_175d8435
+✔ skip branch bams_837544cc
+✔ skip pattern bams
+✔ skip branch sorted_bams_d7d129d9
+✔ skip branch sorted_bams_ddd1c479
+✔ skip branch sorted_bams_7c30f589
+✔ skip branch sorted_bams_1e687139
+✔ skip branch sorted_bams_ca482d93
+✔ skip branch sorted_bams_df0bf94f
+✔ skip branch sorted_bams_42aed7a9
+✔ skip branch sorted_bams_fa29ba46
+• start branch sorted_bams_a86df21d
+• start branch sorted_bams_74bcb0a3
+• built branch sorted_bams_74bcb0a3
+• start branch sorted_bams_8022b9a8
+• built branch sorted_bams_a86df21d
+• start branch sorted_bams_d44b5f60
+• built branch sorted_bams_8022b9a8
+• start branch sorted_bams_a5ec7a8e
+• built branch sorted_bams_d44b5f60
+• start branch sorted_bams_09fad92a
+• built branch sorted_bams_a5ec7a8e
+• start branch sorted_bams_de90de78
+• built branch sorted_bams_09fad92a
+• start branch sorted_bams_adbf2e23
+• built branch sorted_bams_de90de78
+• start branch sorted_bams_46eb1421
+• built branch sorted_bams_adbf2e23
+• start branch sorted_bams_09c4e30a
+• built branch sorted_bams_46eb1421
+• start branch sorted_bams_b4bc70d1
+• built branch sorted_bams_09c4e30a
+• start branch sorted_bams_a14e4c95
+• built branch sorted_bams_b4bc70d1
+• start branch sorted_bams_5994d4a2
+• built branch sorted_bams_a14e4c95
+• start branch sorted_bams_03eb751e
+• built branch sorted_bams_5994d4a2
+• start branch sorted_bams_aea2c340
+• built branch sorted_bams_aea2c340
+• start branch sorted_bams_e533071a
+• built branch sorted_bams_03eb751e
+• start branch sorted_bams_8fb94cf0
+• built branch sorted_bams_8fb94cf0
+• start branch sorted_bams_4a4b189d
+• built branch sorted_bams_e533071a
+• start branch sorted_bams_d510fd76
+• built branch sorted_bams_d510fd76
+• start branch sorted_bams_d82426d2
+• built branch sorted_bams_4a4b189d
+• start branch sorted_bams_372ff0eb
+
+ *** caught bus error ***
+address 0x7f85f2d442ca, cause 'non-existent physical address'
+
+Traceback:
+ 1: .Call(list(name = "processx_poll", address = <pointer: 0x55c96b1d6e60>,     dll = list(name = "processx", path = "/athena/marchionnilab/scratch/clz4002/ppcg_wgs/dragenmode/renv/library/R-4.1/x86_64-conda-linux-gnu/processx/libs/processx.so",         dynamicLookup = FALSE, handle = <pointer: 0x55c96e6f27a0>,         info = <pointer: 0x55c96ae27a60>), numParameters = 3L),     list(list(<pointer: 0x55c96cb88d40>, NULL)), 1L, 200L)
+ 2: do.call(".Call", list(.NAME, ...))
+ 3: withCallingHandlers(do.call(".Call", list(.NAME, ...)), error = function(e) {    e$`_nframe` <- nframe    e$call <- call    if (inherits(e, "simpleError")) {        class(e) <- c("c_error", "rlib_error_2_0", "rlib_error",             "error", "condition")    }    e$`_ignore` <- list(c(nframe + 1L, sys.nframe() + 1L))    throw(e)})
+ 4: rethrow_call(c_processx_poll, pollables, type, as.integer(ms))
+ 5: poll(list(self), ms)
+ 6: process_poll_io(self, private, timeout)
+ 7: proc$poll_io(remains)
+ 8: run_manage(pr, timeout, spinner, stdout, stderr, stdout_line_callback,     stdout_callback, stderr_line_callback, stderr_callback, resenv)
+ 9: doTryCatch(return(expr), name, parentenv, handler)
+10: tryCatchOne(expr, names, parentenv, handlers[[1L]])
+11: tryCatchList(expr, classes, parentenv, handlers)
+12: tryCatch(run_manage(pr, timeout, spinner, stdout, stderr, stdout_line_callback,     stdout_callback, stderr_line_callback, stderr_callback, resenv),     interrupt = function(e) {        "!DEBUG run() process `pr$get_pid()` killed on interrupt"        out <- if (has_stdout) {            resenv$outbuf$push(pr$read_output())            resenv$outbuf$push(pr$read_output())            resenv$outbuf$read()        }        err <- if (has_stderr) {            resenv$errbuf$push(pr$read_error())            resenv$errbuf$push(pr$read_error())            resenv$errbuf$read()        }        tryCatch(pr$kill(), error = function(e) NULL)        signalCondition(new_process_interrupt_cond(list(interrupt = TRUE,             stderr = err, stdout = out, command = command, args = args),             runcall, echo = echo, stderr_to_stdout = stderr_to_stdout))        cat("\n")        invokeRestart("abort")    })
+13: (function (command = NULL, args = character(), error_on_status = TRUE,     wd = NULL, echo_cmd = FALSE, echo = FALSE, spinner = FALSE,     timeout = Inf, stdout = "|", stderr = "|", stdout_line_callback = NULL,     stdout_callback = NULL, stderr_line_callback = NULL, stderr_callback = NULL,     stderr_to_stdout = FALSE, env = NULL, windows_verbatim_args = FALSE,     windows_hide_window = FALSE, encoding = "", cleanup_tree = FALSE,     ...) {    assert_that(is_flag(error_on_status))    assert_that(is_time_interval(timeout))    assert_that(is_flag(spinner))    assert_that(is_string_or_null(stdout))    assert_that(is_string_or_null(stderr))    assert_that(is.null(stdout_line_callback) || is.function(stdout_line_callback))    assert_that(is.null(stderr_line_callback) || is.function(stderr_line_callback))    assert_that(is.null(stdout_callback) || is.function(stdout_callback))    assert_that(is.null(stderr_callback) || is.function(stderr_callback))    assert_that(is_flag(cleanup_tree))    assert_that(is_flag(stderr_to_stdout))    "!DEBUG run() Checked arguments"    if (!interactive())         spinner <- FALSE    if (stderr_to_stdout)         stderr <- "2>&1"    pr <- process$new(command, args, echo_cmd = echo_cmd, wd = wd,         windows_verbatim_args = windows_verbatim_args, windows_hide_window = windows_hide_window,         stdout = stdout, stderr = stderr, env = env, encoding = encoding,         cleanup_tree = cleanup_tree, ...)    "#!DEBUG run() Started the process: `pr$get_pid()`"    if (cleanup_tree) {        on.exit(pr$kill_tree(), add = TRUE)    }    else {        on.exit(pr$kill(), add = TRUE)    }    if (echo) {        stdout_callback <- echo_callback(stdout_callback, "stdout")        stderr_callback <- echo_callback(stderr_callback, "stderr")    }    runcall <- sys.call()    resenv <- new.env(parent = emptyenv())    has_stdout <- !is.null(stdout) && stdout == "|"    has_stderr <- !is.null(stderr) && stderr == "|"    if (has_stdout) {        resenv$outbuf <- make_buffer()        on.exit(resenv$outbuf$done(), add = TRUE)    }    if (has_stderr) {        resenv$errbuf <- make_buffer()        on.exit(resenv$errbuf$done(), add = TRUE)    }    res <- tryCatch(run_manage(pr, timeout, spinner, stdout,         stderr, stdout_line_callback, stdout_callback, stderr_line_callback,         stderr_callback, resenv), interrupt = function(e) {        "!DEBUG run() process `pr$get_pid()` killed on interrupt"        out <- if (has_stdout) {            resenv$outbuf$push(pr$read_output())            resenv$outbuf$push(pr$read_output())            resenv$outbuf$read()        }        err <- if (has_stderr) {            resenv$errbuf$push(pr$read_error())            resenv$errbuf$push(pr$read_error())            resenv$errbuf$read()        }        tryCatch(pr$kill(), error = function(e) NULL)        signalCondition(new_process_interrupt_cond(list(interrupt = TRUE,             stderr = err, stdout = out, command = command, args = args),             runcall, echo = echo, stderr_to_stdout = stderr_to_stdout))        cat("\n")        invokeRestart("abort")    })    if (error_on_status && (is.na(res$status) || res$status !=         0)) {        "!DEBUG run() error on status `res$status` for process `pr$get_pid()`"        throw(new_process_error(res, call = sys.call(), echo = echo,             stderr_to_stdout, res$status, command = command,             args = args))    }    res})("/home/clz4002/miniconda3/lib/R/bin/R", args = c("--slave", "--no-save", "--no-restore", "-f", "/tmp/RtmpiK42d3/callr-scr-1874d675c1054"), stdout_line_callback = function (x, proc) {    if (!is.null(stream))         cat(x, file = stream, sep = "\n", append = TRUE)}, stderr_line_callback = function (x, proc) {    if (!is.null(stream))         cat(x, file = stream, sep = "\n", append = TRUE)}, stdout_callback = NULL, stderr_callback = NULL, stderr_to_stdout = FALSE,     echo_cmd = FALSE, echo = TRUE, spinner = TRUE, error_on_status = FALSE,     timeout = Inf)
+14: do.call(processx::run, c(list(bin, args = real_cmdargs, stdout_line_callback = real_callback(stdout),     stderr_line_callback = real_callback(stderr), stdout_callback = real_block_callback,     stderr_callback = real_block_callback, stderr_to_stdout = stderr_to_stdout,     echo_cmd = echo, echo = show, spinner = spinner, error_on_status = fail_on_status,     timeout = timeout), extra))
+15: force(code)
+16: with_envvar(env, do.call(processx::run, c(list(bin, args = real_cmdargs,     stdout_line_callback = real_callback(stdout), stderr_line_callback = real_callback(stderr),     stdout_callback = real_block_callback, stderr_callback = real_block_callback,     stderr_to_stdout = stderr_to_stdout, echo_cmd = echo, echo = show,     spinner = spinner, error_on_status = fail_on_status, timeout = timeout),     extra)))
+17: eval(substitute(expr), data, enclos = parent.frame())
+18: eval(substitute(expr), data, enclos = parent.frame())
+19: with.default(options, with_envvar(env, do.call(processx::run,     c(list(bin, args = real_cmdargs, stdout_line_callback = real_callback(stdout),         stderr_line_callback = real_callback(stderr), stdout_callback = real_block_callback,         stderr_callback = real_block_callback, stderr_to_stdout = stderr_to_stdout,         echo_cmd = echo, echo = show, spinner = spinner, error_on_status = fail_on_status,         timeout = timeout), extra))))
+20: with(options, with_envvar(env, do.call(processx::run, c(list(bin,     args = real_cmdargs, stdout_line_callback = real_callback(stdout),     stderr_line_callback = real_callback(stderr), stdout_callback = real_block_callback,     stderr_callback = real_block_callback, stderr_to_stdout = stderr_to_stdout,     echo_cmd = echo, echo = show, spinner = spinner, error_on_status = fail_on_status,     timeout = timeout), extra))))
+21: run_r(options)
+22: (function (func, args = list(), libpath = .libPaths(), repos = default_repos(),     stdout = NULL, stderr = NULL, poll_connection = TRUE, error = getOption("callr.error",         "error"), cmdargs = c("--slave", "--no-save", "--no-restore"),     show = FALSE, callback = NULL, block_callback = NULL, spinner = show &&         interactive(), system_profile = FALSE, user_profile = "project",     env = rcmd_safe_env(), timeout = Inf, package = FALSE, arch = "same",     ...) {    options <- convert_and_check_my_args(as.list(environment()))    options$extra <- list(...)    options$load_hook <- default_load_hook()    on.exit(unlink(options$tmp_files, recursive = TRUE), add = TRUE)    options <- setup_script_files(options)    options <- setup_context(options)    options <- setup_callbacks(options)    options <- setup_r_binary_and_args(options)    out <- run_r(options)    get_result(output = out, options)})(spinner = TRUE, func = function (targets_function, targets_arguments,     options, envir = NULL, script, store, fun) {    force(envir)    parent <- parent.frame()    if (is.null(envir)) {        envir <- parent    }    old_envir <- targets::tar_option_get("envir")    targets::tar_option_set(envir = envir)    targets::tar_runtime_object()$set_store(store)    targets::tar_runtime_object()$set_fun(fun)    on.exit(tar_option_set(envir = old_envir))    on.exit(targets::tar_runtime_object()$unset_store(), add = TRUE)    on.exit(targets::tar_runtime_object()$unset_fun(), add = TRUE)    withr::local_options(options)    targets <- eval(parse(text = readLines(script, warn = FALSE)),         envir = envir)    targets_arguments$pipeline <- targets::as_pipeline(targets)    targets::pipeline_validate_lite(targets_arguments$pipeline)    do.call(targets_function, targets_arguments)}, args = list(targets_function = function (pipeline, path_store,     names_quosure, shortcut, reporter, workers) {    names <- tar_tidyselect_eval(names_quosure, pipeline_get_names(pipeline))    future_init(pipeline = pipeline, meta_init(path_store = path_store),         names = names, shortcut = shortcut, queue = "parallel",         reporter = reporter, workers = workers)$run()    invisible()}, targets_arguments = list(path_store = "_targets", names_quosure = ~NULL,     shortcut = FALSE, reporter = "verbose", workers = 2), options = list(    crayon.enabled = FALSE), script = "_targets.R", store = "_targets",     fun = "tar_make_future"), show = TRUE, env = c(CYGWIN = "nodosfilewarning", R_TESTS = "", R_BROWSER = "false", R_PDFVIEWER = "false", PROCESSX_NOTIFY_OLD_SIGCHLD = "true"))
+23: do.call(callr_function, callr_prepare_arguments(callr_function,     callr_arguments))
+24: if_any(is.null(callr_function), callr_inner(targets_function = targets_function,     targets_arguments = targets_arguments, options = options,     envir = envir, script = script, store = store, fun = fun),     do.call(callr_function, callr_prepare_arguments(callr_function,         callr_arguments)))
+25: callr_dispatch(targets_function = targets_function, targets_arguments = targets_arguments,     callr_function = callr_function, callr_arguments = callr_arguments,     envir = envir, script = script, store = store, fun = fun)
+26: doTryCatch(return(expr), name, parentenv, handler)
+27: tryCatchOne(expr, names, parentenv, handlers[[1L]])
+28: tryCatchList(expr, classes, parentenv, handlers)
+29: tryCatch(callr_dispatch(targets_function = targets_function,     targets_arguments = targets_arguments, callr_function = callr_function,     callr_arguments = callr_arguments, envir = envir, script = script,     store = store, fun = fun), callr_error = function(e) {    tar_throw_run(conditionMessage(e), "\nVisit https://books.ropensci.org/targets/debugging.html ",         "for debugging advice.")})
+30: callr_outer(targets_function = tar_make_future_inner, targets_arguments = targets_arguments,     callr_function = callr_function, callr_arguments = callr_arguments,     envir = envir, script = script, store = store, fun = "tar_make_future")
+31: targets::tar_make_future(workers = 2)
+An irrecoverable exception occurred. R is aborting now ...
+/var/spool/slurmd/job426419/slurm_script: line 14: 100173 Bus error               R -e "targets::tar_make_future(workers = 2)"

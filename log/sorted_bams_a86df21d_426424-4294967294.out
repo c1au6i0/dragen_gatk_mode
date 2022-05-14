@@ -1,0 +1,68 @@
+### [bt]: This is batchtools v0.9.15
+### [bt]: Starting calculation of 1 jobs
+### [bt]: Setting working directory to '/athena/marchionnilab/scratch/clz4002/ppcg_wgs/dragenmode'
+Loading required package: targets
+### [bt]: Memory measurement disabled
+### [bt]: Starting job [batchtools job.id=1]
+### [bt]: Setting seed to 20647 ...
+Collating fixmate and sorting...
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0008.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0009.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0010.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0011.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0012.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0013.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0014.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0015.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0016.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0017.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0018.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0019.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0020.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0021.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0022.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0023.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0024.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0025.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0026.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0027.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0028.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0029.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0030.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0031.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0032.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0033.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0034.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0035.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0036.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0037.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0038.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0039.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0040.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0041.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0042.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0043.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0044.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0045.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0046.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0047.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0048.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0049.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0050.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0051.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0052.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0053.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0054.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0055.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0056.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0057.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0058.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0059.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0060.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0061.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0062.bam
+[E::hts_open_format] Failed to open file PCAWG.3b8eb3f9-0ebb-4da8-bb18-7d1bf75ce527.bam.0063.bam
+[bam_sort_core] merging from 650 files and 50 in-memory blocks...
+
+### [bt]: Job terminated successfully [batchtools job.id=1]
+### [bt]: Calculation finished!

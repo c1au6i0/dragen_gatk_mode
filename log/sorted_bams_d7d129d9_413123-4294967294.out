@@ -1,0 +1,20 @@
+### [bt]: This is batchtools v0.9.15
+### [bt]: Starting calculation of 1 jobs
+### [bt]: Setting working directory to '/athena/marchionnilab/scratch/clz4002/ppcg_wgs/dragenmode'
+Loading required package: targets
+### [bt]: Memory measurement disabled
+### [bt]: Starting job [batchtools job.id=1]
+### [bt]: Setting seed to 20333 ...
+Collating fixmate and sorting...
+[E::hts_open_format] Failed to open file PCAWG.01497a54-775c-479f-a540-d69dd6aa5d8e.bam.0056.bam
+[E::hts_open_format] Failed to open file PCAWG.01497a54-775c-479f-a540-d69dd6aa5d8e.bam.0057.bam
+[E::hts_open_format] Failed to open file PCAWG.01497a54-775c-479f-a540-d69dd6aa5d8e.bam.0058.bam
+[E::hts_open_format] Failed to open file PCAWG.01497a54-775c-479f-a540-d69dd6aa5d8e.bam.0059.bam
+[E::hts_open_format] Failed to open file PCAWG.01497a54-775c-479f-a540-d69dd6aa5d8e.bam.0060.bam
+[E::hts_open_format] Failed to open file PCAWG.01497a54-775c-479f-a540-d69dd6aa5d8e.bam.0061.bam
+[E::hts_open_format] Failed to open file PCAWG.01497a54-775c-479f-a540-d69dd6aa5d8e.bam.0062.bam
+[E::hts_open_format] Failed to open file PCAWG.01497a54-775c-479f-a540-d69dd6aa5d8e.bam.0063.bam
+[bam_sort_core] merging from 550 files and 50 in-memory blocks...
+
+### [bt]: Job terminated successfully [batchtools job.id=1]
+### [bt]: Calculation finished!

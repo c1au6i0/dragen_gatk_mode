@@ -1,0 +1,12 @@
+### [bt]: This is batchtools v0.9.15
+### [bt]: Starting calculation of 1 jobs
+### [bt]: Setting working directory to '/athena/marchionnilab/scratch/clz4002/ppcg_wgs/dragenmode'
+Loading required package: targets
+### [bt]: Memory measurement disabled
+### [bt]: Starting job [batchtools job.id=1]
+### [bt]: Setting seed to 21596 ...
+Collating fixmate and sorting...
+[bam_sort_core] merging from 400 files and 50 in-memory blocks...
+
+### [bt]: Job terminated successfully [batchtools job.id=1]
+### [bt]: Calculation finished!

@@ -1,0 +1,57 @@
+### [bt]: This is batchtools v0.9.15
+### [bt]: Starting calculation of 1 jobs
+### [bt]: Setting working directory to '/athena/marchionnilab/scratch/clz4002/ppcg_wgs/dragenmode'
+Loading required package: targets
+### [bt]: Memory measurement disabled
+### [bt]: Starting job [batchtools job.id=1]
+### [bt]: Setting seed to 24273 ...
+Collating fixmate and sorting...
+[E::hts_open_format] Failed to open file -.0022.bam
+[E::hts_open_format] Failed to open file -.0023.bam
+[E::hts_open_format] Failed to open file -.0024.bam
+[E::hts_open_format] Failed to open file -.0025.bam
+[E::hts_open_format] Failed to open file -.0026.bam
+[E::hts_open_format] Failed to open file -.0027.bam
+[E::hts_open_format] Failed to open file -.0028.bam
+[E::hts_open_format] Failed to open file -.0029.bam
+[E::hts_open_format] Failed to open file -.0030.bam
+[E::hts_open_format] Failed to open file -.0061.bam
+[E::hts_open_format] Failed to open file -.0062.bam
+[E::hts_open_format] Failed to open file -.0063.bam
+[E::hts_open_format] Failed to open file -.0064.bam
+[E::hts_open_format] Failed to open file -.0065.bam
+[E::hts_open_format] Failed to open file -.0066.bam
+[E::hts_open_format] Failed to open file -.0067.bam
+[E::hts_open_format] Failed to open file -.0068.bam
+[E::hts_open_format] Failed to open file -.0069.bam
+[E::hts_open_format] Failed to open file -.0070.bam
+[E::hts_open_format] Failed to open file -.0071.bam
+[E::hts_open_format] Failed to open file -.0072.bam
+[E::hts_open_format] Failed to open file -.0073.bam
+[E::hts_open_format] Failed to open file -.0074.bam
+[E::hts_open_format] Failed to open file -.0075.bam
+[E::hts_open_format] Failed to open file -.0076.bam
+[E::hts_open_format] Failed to open file -.0077.bam
+[E::hts_open_format] Failed to open file -.0078.bam
+[E::hts_open_format] Failed to open file -.0079.bam
+[E::hts_open_format] Failed to open file -.0080.bam
+[E::hts_open_format] Failed to open file -.0081.bam
+[E::hts_open_format] Failed to open file -.0082.bam
+[E::hts_open_format] Failed to open file -.0083.bam
+[E::hts_open_format] Failed to open file -.0084.bam
+[E::hts_open_format] Failed to open file -.0085.bam
+[E::hts_open_format] Failed to open file -.0086.bam
+[E::hts_open_format] Failed to open file -.0087.bam
+[E::hts_open_format] Failed to open file -.0088.bam
+[E::hts_open_format] Failed to open file -.0089.bam
+[E::hts_open_format] Failed to open file -.0090.bam
+[E::hts_open_format] Failed to open file -.0091.bam
+[E::hts_open_format] Failed to open file -.0092.bam
+[E::hts_open_format] Failed to open file -.0093.bam
+[E::hts_open_format] Failed to open file -.0094.bam
+[E::hts_open_format] Failed to open file -.0095.bam
+[E::hts_open_format] Failed to open file -.0096.bam
+[bam_sort_core] merging from 600 files and 50 in-memory blocks...
+
+### [bt]: Job terminated successfully [batchtools job.id=1]
+### [bt]: Calculation finished!

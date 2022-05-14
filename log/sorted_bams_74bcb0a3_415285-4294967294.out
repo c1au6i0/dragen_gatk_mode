@@ -1,0 +1,16 @@
+### [bt]: This is batchtools v0.9.15
+### [bt]: Starting calculation of 1 jobs
+### [bt]: Setting working directory to '/athena/marchionnilab/scratch/clz4002/ppcg_wgs/dragenmode'
+Loading required package: targets
+### [bt]: Memory measurement disabled
+### [bt]: Starting job [batchtools job.id=1]
+### [bt]: Setting seed to 22290 ...
+Collating fixmate and sorting...
+[bam_sort_core] merging from 700 files and 50 in-memory blocks...
+sh: line 1: 122041 Done                    samtools collate /athena/marchionnilab/scratch/clz4002/ppcg_wgs/dragenmode/data/big_files/bam_files/PCAWG.3f4a5a1c-247f-448f-9d39-9a7e92de4b61.bam PCAWG.3f4a5a1c-247f-448f-9d39-9a7e92de4b61.bam -@ 50 -
+     122042 Broken pipe             | samtools fixmate -m -@ 50 - -
+     122043 Killed                  | samtools sort -T /athena/marchionnilab/scratch/clz4002/ppcg_wgs/dragenmode/tmp /athena/marchionnilab/scratch/clz4002/ppcg_wgs/dragenmode/data/big_files/bam_files/PCAWG.3f4a5a1c-247f-448f-9d39-9a7e92de4b61.bam -@ 50 -o /athena/marchionnilab/scratch/clz4002/ppcg_wgs/dragenmode/data/big_files/sorted_bam_files/sorted_PCAWG.3f4a5a1c-247f-448f-9d39-9a7e92de4b61.bam
+
+### [bt]: Job terminated successfully [batchtools job.id=1]
+### [bt]: Calculation finished!
+slurmstepd: error: Detected 1 oom-kill event(s) in step 415285.batch cgroup. Some of your processes may have been killed by the cgroup out-of-memory handler.

@@ -1,0 +1,144 @@
+Wed Apr 13 22:24:56 EST 2022
+
+R version 4.1.2 (2021-11-01) -- "Bird Hippie"
+Copyright (C) 2021 The R Foundation for Statistical Computing
+Platform: x86_64-conda-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+* Project '/athena/marchionnilab/scratch/clz4002/ppcg_wgs/dragenmode' loaded. [renv 0.15.4]
+> targets::tar_make_future(workers = 2)
+here() starts at /athena/marchionnilab/scratch/clz4002/ppcg_wgs/dragenmode
+✔ skip target reference_folder
+✔ skip target ubam_folder
+• start target ubams_files
+✔ skip target reference_files
+• built target ubams_files
+✔ skip branch ubams_78a338f2
+✔ skip branch ubams_4244fdb5
+✔ skip branch ubams_2cd068e0
+✔ skip branch ubams_2257c04c
+✔ skip branch ubams_a60e5c03
+✔ skip branch ubams_9085d072
+✔ skip branch ubams_9b4d8b84
+✔ skip branch ubams_ebb88c5f
+✔ skip branch ubams_0cd9fa4c
+✔ skip branch ubams_80a10155
+✔ skip branch ubams_84ad4357
+✔ skip branch ubams_65e4488b
+✔ skip branch ubams_cc9c6986
+✔ skip branch ubams_77b5806a
+✔ skip branch ubams_70562715
+✔ skip branch ubams_4f0d1d6c
+✔ skip branch ubams_94b13910
+✔ skip branch ubams_484fb24a
+✔ skip branch ubams_bc8c0aeb
+✔ skip branch ubams_c26d70f6
+✔ skip branch ubams_14f05eeb
+✔ skip branch ubams_e5c0e796
+✔ skip branch ubams_5a23a4d7
+✔ skip branch ubams_85c75bf9
+✔ skip branch ubams_2cd67696
+✔ skip branch ubams_926a74fb
+✔ skip branch ubams_aeb67b1b
+✔ skip branch ubams_0bfabf30
+✔ skip branch ubams_2954b45d
+✔ skip branch ubams_2f375141
+✔ skip branch ubams_0395aac3
+✔ skip branch ubams_28a38817
+✔ skip branch ubams_10c87412
+✔ skip branch ubams_0b0c2940
+✔ skip branch ubams_98b91d61
+✔ skip branch ubams_b37523d6
+✔ skip branch ubams_c9766b54
+✔ skip branch ubams_c1b0219f
+✔ skip branch ubams_b12da4bb
+✔ skip branch ubams_3ea83243
+✔ skip pattern ubams
+✔ skip branch bams_bcf64ce5
+✔ skip branch bams_7e613be2
+✔ skip branch bams_2cb8c6c8
+✔ skip branch bams_f6dea99c
+✔ skip branch bams_2a6ec0f7
+✔ skip branch bams_b48b3d3a
+✔ skip branch bams_3cb7706b
+✔ skip branch bams_04043065
+✔ skip branch bams_240b8a0d
+✔ skip branch bams_bd3a0076
+✔ skip branch bams_c592569a
+✔ skip branch bams_257d3c47
+✔ skip branch bams_3d368718
+✔ skip branch bams_978fe589
+✔ skip branch bams_ab725089
+✔ skip branch bams_1f9387c4
+✔ skip branch bams_90c30fc7
+✔ skip branch bams_5a1a41fd
+✔ skip branch bams_05200115
+✔ skip branch bams_256777c0
+✔ skip branch bams_1bce4739
+✔ skip branch bams_6509149e
+✔ skip branch bams_84d67404
+✔ skip branch bams_440ea807
+✔ skip branch bams_67c92cdc
+✔ skip branch bams_20bc0e90
+✔ skip branch bams_6fd7cf4a
+✔ skip branch bams_18ef5146
+✔ skip branch bams_fa7b2a7e
+✔ skip branch bams_eb30ad37
+✔ skip branch bams_e9e7147b
+✔ skip branch bams_243d1863
+✔ skip branch bams_72d06d82
+✔ skip branch bams_c3f75240
+✔ skip branch bams_70339ce8
+✔ skip branch bams_a24477cc
+✔ skip branch bams_ff6814d1
+✔ skip branch bams_4e848836
+✔ skip branch bams_175d8435
+✔ skip branch bams_837544cc
+✔ skip pattern bams
+• start branch sorted_bams_d7d129d9
+• start branch sorted_bams_ddd1c479
+• built branch sorted_bams_ddd1c479
+• start branch sorted_bams_7c30f589
+• built branch sorted_bams_d7d129d9
+• start branch sorted_bams_1e687139
+• built branch sorted_bams_7c30f589
+• start branch sorted_bams_ca482d93
+• built branch sorted_bams_1e687139
+• start branch sorted_bams_df0bf94f
+• built branch sorted_bams_ca482d93
+• start branch sorted_bams_42aed7a9
+• built branch sorted_bams_42aed7a9
+• start branch sorted_bams_fa29ba46
+• record workspace sorted_bams_fa29ba46
+✖ error branch sorted_bams_fa29ba46
+• end pipeline: 7.584 hours
+Error in tar_throw_run(target$metrics$error) : 
+  _future_ Log file '/athena/marchionnilab/scratch/clz4002/ppcg_wgs/dragenmode/.future/20220413_232527-Z6RoaZ/sorted_bams_fa29ba46_266216311/logs/job95d81c341e168c83fa86d2dedbc4210f.log' for job with id 1 not available
+Error : Log file '/athena/marchionnilab/scratch/clz4002/ppcg_wgs/dragenmode/.future/20220413_232527-Z6RoaZ/sorted_bams_fa29ba46_266216311/logs/job95d81c341e168c83fa86d2dedbc4210f.log' for job with id 1 not available
+Error in `tar_throw_run()`:
+! callr subprocess failed: _future_ Log file '/athena/marchionnilab/scratch/clz4002/ppcg_wgs/dragenmode/.future/20220413_232527-Z6RoaZ/sorted_bams_fa29ba46_266216311/logs/job95d81c341e168c83fa86d2dedbc4210f.log' for job with id 1 not available
+Visit https://books.ropensci.org/targets/debugging.html for debugging advice.
+Backtrace:
+    ▆
+ 1. └─targets::tar_make_future(workers = 2)
+ 2.   └─targets:::callr_outer(...)
+ 3.     └─base::tryCatch(...)
+ 4.       └─base tryCatchList(expr, classes, parentenv, handlers)
+ 5.         └─base tryCatchOne(expr, names, parentenv, handlers[[1L]])
+ 6.           └─value[[3L]](cond)
+ 7.             └─targets::tar_throw_run(...)
+ 8.               └─rlang::abort(...)
+Execution halted

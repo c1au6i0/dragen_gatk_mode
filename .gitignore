@@ -1,0 +1,5 @@
+.DS_Store
+/data/big_files/*
+/tmp/*
+_targets/*
+.future/*

@@ -1,0 +1,32 @@
+{
+  "R": {
+    "Version": "4.1.2",
+    "Repositories": [
+      {
+        "Name": "CRAN",
+        "URL": "https://repo.miserver.it.umich.edu/cran"
+      }
+    ]
+  },
+  "Packages": {
+    "renv": {
+      "Package": "renv",
+      "Version": "0.15.4",
+      "Source": "CRAN",
+      "Repository": "CRAN",
+      "RemoteType": "standard",
+      "RemotePkgRef": "renv",
+      "RemoteRef": "renv",
+      "RemoteRepos": "https://espejito.fder.edu.uy/cran",
+      "RemotePkgPlatform": "source",
+      "RemoteSha": "0.15.4",
+      "Hash": "c1078316e1d4f70275fc1ea60c0bc431",
+      "Requirements": []
+    }
+  },
+  "Python": {
+    "Version": "3.8.12",
+    "Type": "virtualenv",
+    "Name": "./renv/python/virtualenvs/renv-python-3.8"
+  }
+}
