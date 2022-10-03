@@ -109,13 +109,13 @@ sort_index <- function(bam, tmp_path, output_dir, num_threads){
 #' @param output_dir Path to output folder.
 #' @param num_threads
 #' @param tmp_path for tmp_files.
-sort_fixmate_collate_bam <- function(bam, output_dir, num_threads, tmp_path){
+sort_fixmate_collate_bam :w<- function(bam, output_dir, num_threads, tmp_path){
 
     bam_paths <- sapply(c(collated = "collated", fixmated = "fixmated", sorted = "sorted"),
            function(x) file.path(output_dir, paste0(x, "_", basename(bam))),
            simplify = FALSE)
 
-     message("Collating, Fixmating and Sorting...")
+     message(paste0("Collating, Fixmating and Sorting ", basename(bam)))
      command_bash <- paste0(
        "set -e;",
        "echo 'Collating ...'; ",
